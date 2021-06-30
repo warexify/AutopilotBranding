@@ -1,42 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="mplayerc64.3g2" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".3gp" ProgId="mplayerc64.3gp" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".3gp2" ProgId="mplayerc64.3gp2" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".3gpp" ProgId="mplayerc64.3gpp" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".aif" ProgId="AppXkc9a6a3cr3pbmgqbdfgr11xbh3k4pqrz" ApplicationName="iTunes" />
+  <Association Identifier=".aifc" ProgId="AppXb4sa3pxpn2jaqs25n8czkh5vxjdnxz6z" ApplicationName="iTunes" />
+  <Association Identifier=".aiff" ProgId="AppXd0q15nymfv84r7f35ntqegq2cfc4yyvn" ApplicationName="iTunes" />
+  <Association Identifier=".aml" ProgId="QtiASL" ApplicationName="QtiASL.exe" />
   <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="mplayerc64.asf" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".avi" ProgId="mplayerc64.avi" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".bmp" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".cda" ProgId="AppX94pe98zzr9p0r6563575w18v52574561" ApplicationName="iTunes" />
   <Association Identifier=".cr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
   <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".epub" ProgId="AppXvepbp3z66accmsd0x877zbbxjctkpr6t" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".dib" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".emf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
   <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".htm" ProgId="htmlfile" ApplicationName="Internet Explorer" />
-  <Association Identifier=".html" ProgId="htmlfile" ApplicationName="Internet Explorer" />
-  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".gif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".htm" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".html" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".inf" ProgId="AppXzwr976v2e060wada4gabrk1x69h2dbwy" ApplicationName="Notepad" />
+  <Association Identifier=".ini" ProgId="AppXhk4des8gf2xat3wtyzc5q06ny78jhkqx" ApplicationName="Notepad" />
+  <Association Identifier=".ivf" ProgId="mplayerc64.ivf" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".jfif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".jpe" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".jpeg" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".jpg" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".jxr" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
   <Association Identifier=".kdc" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".log" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".m1v" ProgId="mplayerc64.m1v" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".m2t" ProgId="mplayerc64.m2t" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".m2ts" ProgId="mplayerc64.m2ts" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".M2V" ProgId="mplayerc64.m2v" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".m3u" ProgId="AppXs7xmkvqnd03ekt81z1wbpe07r267x63j" ApplicationName="iTunes" />
+  <Association Identifier=".m4a" ProgId="AppXhsbeg8dzpfnvytmgmpw16z9gwnr02b2g" ApplicationName="iTunes" />
+  <Association Identifier=".m4p" ProgId="AppX2wtve0gr4hmwf8741db8nbmx1qpzt6vb" ApplicationName="iTunes" />
+  <Association Identifier=".m4v" ProgId="AppXjaavt6w9fwtv0fv77qcb84p5a7wp6x8r" ApplicationName="iTunes" />
+  <Association Identifier=".mht" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mhtml" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mk3d" ProgId="mplayerc64.mk3d" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mkv" ProgId="mplayerc64.mkv" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mov" ProgId="AppX51d84m0eq4w0f67reb3fnn7nwyb8znfj" ApplicationName="iTunes" />
+  <Association Identifier=".MP2" ProgId="AppXfapb4jstkgv25e17qm38bfkqh43bzh50" ApplicationName="iTunes" />
+  <Association Identifier=".mp2v" ProgId="mplayerc64.mp2v" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mp3" ProgId="AppX5tnr5c60kj48xden3zkyrtaf8rercj97" ApplicationName="iTunes" />
+  <Association Identifier=".mp4" ProgId="mplayerc64.mp4" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mp4v" ProgId="mplayerc64.mp4v" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".MPE" ProgId="mplayerc64.mpe" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".mpeg" ProgId="AppXgw8jsesna2s0kjf6w9gv1d36xjhv8qme" ApplicationName="iTunes" />
+  <Association Identifier=".mpg" ProgId="AppX33v3etqt5kvj5qvaf4z8ewzgsds8kfex" ApplicationName="iTunes" />
+  <Association Identifier=".mpv2" ProgId="mplayerc64.mpv2" ApplicationName="MPC-HC (x64)" />
   <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="mplayerc64.mts" ApplicationName="MPC-HC (x64)" />
   <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
   <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ogm" ProgId="mplayerc64.ogm" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".ogv" ProgId="mplayerc64.ogv" ApplicationName="MPC-HC (x64)" />
   <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".pdf" ProgId="AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".oxps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".pdf" ProgId="MSEdgePDF" ApplicationName="Microsoft Edge" />
   <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
-  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".png" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".ps1" ProgId="VSCodeInsiders.ps1" ApplicationName="Visual Studio Code - Insiders" />
+  <Association Identifier=".psd1" ProgId="AppXc9vj55m1n3559gcjff0scsqeket80zp7" ApplicationName="Notepad" />
+  <Association Identifier=".psm1" ProgId="AppX1b0e9ytcwx0wcmvkdey0h6af04t1ta3z" ApplicationName="Notepad" />
   <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
   <Association Identifier=".raw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rle" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
   <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
   <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".scp" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".shtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
   <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".svg" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
   <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
-  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".TS" ProgId="mplayerc64.ts" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".txt" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
   <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".vob" ProgId="mplayerc64.vob" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".wav" ProgId="AppX00gjq2b9tdyhp1s33zgkr5kvafqjg10p" ApplicationName="iTunes" />
   <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".webm" ProgId="mplayerc64.webm" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".webp" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="mplayerc64.wm" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".wmf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".wmp" ProgId="mplayerc64.wmp" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".wmv" ProgId="mplayerc64.wmv" ApplicationName="MPC-HC (x64)" />
+  <Association Identifier=".wtx" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".xht" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xhtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
   <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Maps" />
-  <Association Identifier="http" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
-  <Association Identifier="https" ProgId="IE.HTTPS" ApplicationName="Internet Explorer" />
+  <Association Identifier="ftp" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="irc" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mailto" ProgId="AppXydk58wgm44se4b399557yyyj1w7mbmvd" ApplicationName="Mail" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mms" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="news" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="nntp" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="read" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="sms" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="smsto" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="snews" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="TEL" ProgId="AppXvvr0sjtc34r6nk4mhn2e608s2xp2tezg" ApplicationName="People" />
+  <Association Identifier="urn" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="WEBCAL" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
 </DefaultAssociations>

@@ -1,8 +1,8 @@
 <Config>
-  <TimeZone></TimeZone>
+  <TimeZone>Tomsk Standard Time</TimeZone>
   <RemoveApps>
     <App>Microsoft.BingWeather</App>
-    <App>Microsoft.DesktopAppInstaller</App>
+    <App>Microsoft.GamingApp</App>
     <App>Microsoft.Getstarted</App>
     <App>Microsoft.Messaging</App>
     <App>Microsoft.Microsoft3DViewer</App>
@@ -13,36 +13,55 @@
     <App>Microsoft.OneConnect</App>
     <App>Microsoft.Print3D</App>
     <App>Microsoft.SkypeApp</App>
-    <App>microsoft.windowscommunicationsapps</App>
     <App>Microsoft.WindowsFeedbackHub</App>
     <App>Microsoft.XboxApp</App>
     <App>Microsoft.YourPhone</App>
     <App>Microsoft.ZuneMusic</App>
     <App>Microsoft.ZuneVideo</App>
   </RemoveApps>
-  <OneDriveSetup>https://go.microsoft.com/fwlink/?linkid=844652</OneDriveSetup>
+  <OneDriveSetup>https://oneclient.sfx.ms/Win/Insiders/21.119.0613.0001/amd64/OneDriveSetup.exe</OneDriveSetup>
   <AddFeatures>
-    <!-- If you do add a language pack, make sure you add these language add-ons for each one.
-    <Feature>Language.Basic~~~es-ES~0.0.1.0</Feature>
+    <Feature>App.WirelessDisplay.Connect~~~~0.0.1.0</Feature>
+    <Feature>Hello.Face.20134~~~~0.0.1.0</Feature>
+    <Feature>Language.Basic~~~en-US~0.0.1.0</Feature>
+    <Feature>Language.Basic~~~ru-RU~0.0.1.0</Feature>
     <Feature>Language.Fonts.PanEuropeanSupplementalFonts~~~~0.0.1.0</Feature>
-    <Feature>Language.Handwriting~~~es-ES~0.0.1.0</Feature>
-    <Feature>Language.OCR~~~es-ES~0.0.1.0</Feature>
-    <Feature>Language.Speech~~~es-ES~0.0.1.0</Feature>
-    <Feature>Language.TextToSpeech~~~es-ES~0.0.1.0</Feature>
-    -->
+    <Feature>Language.Handwriting~~~en-US~0.0.1.0</Feature>
+    <Feature>Language.Handwriting~~~ru-RU~0.0.1.0</Feature>
+    <Feature>Language.OCR~~~en-US~0.0.1.0</Feature>
+    <Feature>Language.OCR~~~ru-RU~0.0.1.0</Feature>
+    <Feature>Language.Speech~~~en-US~0.0.1.0</Feature>
+    <Feature>Language.TextToSpeech~~~en-US~0.0.1.0</Feature>
+    <Feature>Language.TextToSpeech~~~ru-RU~0.0.1.0</Feature>
+    <Feature>Media.WindowsMediaPlayer~~~~0.0.12.0</Feature>
+    <Feature>Microsoft-Windows-SnippingTool~~~~0.0.1.0</Feature>
+    <Feature>Microsoft.WebDriver~~~~0.0.1.0</Feature>
+    <Feature>Msix.PackagingTool.Driver~~~~0.0.1.0</Feature>
     <Feature>NetFX3~~~~</Feature>
+    <Feature>OpenSSH.Server~~~~0.0.1.0</Feature>
+    <Feature>Tools.DeveloperMode.Core~~~~0.0.1.0</Feature>
+    <Feature>Tools.Graphics.DirectX~~~~0.0.1.0</Feature>
+    <Feature>Tpm.TpmDiagnostics~~~~0.0.1.0</Feature>
+    <Feature>XPS.Viewer~~~~0.0.1.0</Feature>
   </AddFeatures>
-  <Language></Language>
-  <!-- If you want to set a language, customize and reference this file: <Language>Language.xml</Language> -->
+  <Language>Language.xml</Language>
   <DefaultApps>Associations.xml</DefaultApps>
-  <RegisteredOwner>Autopilot User</RegisteredOwner>
-  <RegisteredOrganization>Contoso</RegisteredOrganization>
+  <RegisteredOwner>Evgeny Istratov</RegisteredOwner>
+  <RegisteredOrganization>warexify.com</RegisteredOrganization>
   <OEMInfo>
-    <Manufacturer>Contoso</Manufacturer>
-    <Model>PC</Model>
-    <Logo>Contoso.bmp</Logo>
-    <SupportPhone>+1 800-555-1212</SupportPhone>
-    <SupportHours>8am-5pm PST</SupportHours>
-    <SupportURL>http://www.contoso.com</SupportURL>
+    <Manufacturer>warexify.com</Manufacturer>
+    <Model>MacBookPro11,2</Model>
+    <Logo>warexify.bmp</Logo>
+    <SupportPhone>+7 981-870-7789</SupportPhone>
+    <SupportHours>09.00-18.00</SupportHours>
+    <SupportURL>http://www.warexify.com</SupportURL>
   </OEMInfo>
+  <StartMenuLayout>LayoutModification.xml</StartMenuLayout>
+  <DisableEdgeDesktopShortcutCreation>1</DisableEdgeDesktopShortcutCreation>
+  <EnableUEV>0</EnableUEV>
+  <NewNetworkWindowOff>0</NewNetworkWindowOff>
+  <SearchboxTaskbarMode>0</SearchboxTaskbarMode>
+  <ShowCortanaButton>0</ShowCortanaButton>
+  <ShowTaskViewButton>0</ShowTaskViewButton>
+  <Delete3DObjectsLink>1</Delete3DObjectsLink>
 </Config>

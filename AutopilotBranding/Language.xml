@@ -4,15 +4,31 @@
         <gs:User UserID="Current" CopySettingsToSystemAcct="true" CopySettingsToDefaultUserAcct="true" /> 
     </gs:UserList>
 
-    <!--Display Language--> 
-    <gs:MUILanguagePreferences> 
-        <gs:MUILanguage Value="es-ES" /> 
-        <gs:MUIFallback Value="en-US" /> 
-    </gs:MUILanguagePreferences> 
+    <!-- GeoID -->
+    <gs:LocationPreferences>
+        <gs:GeoID Value="203" />
+    </gs:LocationPreferences>
+
+    <!--Display Language-->
+    <gs:MUILanguagePreferences>
+        <gs:MUILanguage Value="ru-RU" />
+        <gs:MUIFallback Value="en-US" />
+    </gs:MUILanguagePreferences>
+
+    <!--System Locale-->
+    <gs:SystemLocale Name="en-US" />
+
+    <!--Input Preferences-->
+    <gs:InputPreferences>
+        <gs:InputLanguageID Action="add" Default="true" ID="0409:A0000409" />
+        <!--<gs:InputLanguageID Action="remove" ID="0409:00000409" />-->
+        <gs:InputLanguageID Action="add" ID="0419:A0000419" />
+        <!--<gs:InputLanguageID Action="remove" ID="0419:00000419" />-->
+    </gs:InputPreferences>
 
     <!--User Locale-->
     <gs:UserLocale> 
-        <gs:Locale Name="es-ES" SetAsCurrent="true" ResetAllSettings="false"/>
+        <gs:Locale Name="ru-RU" SetAsCurrent="true" ResetAllSettings="false"/>
     </gs:UserLocale>
 
 </gs:GlobalizationServices>  
